@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetxdev&label=Profile%20views&color=0e75b6&style=flat" alt="sujeetxdev" /> </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Full-stack+Developer;Open+Source+Enthusiast;Python+%7C+JavaScript+Lover;Let's+build+something+cool!+" alt="Typing SVG">
+  </a>
+</p>
 
 - 🔭 I’m currently working on [resume](https://github.com/sujkumar237-ui/Resume)
 
